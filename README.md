@@ -5,8 +5,8 @@ I'm a passionate *Kotlin & Android developer* from Bangladesh. I enjoy turning i
 - 🔭 I’m currently working on a [KPI Blood Finder].
 - 🌱 I’m constantly learning new things about *Android Development* and *Backend technologies*.
 - 💬 Ask me about: *Kotlin, and Mobile UX/UI design.*
-- 📫 How to reach me: You can email me at *rubayat611866@gmail.com* (as seen on your profile).
-- ⚡ Fun fact: I am a lifelong learner and a big football lover! ⚽ (As seen on your profile)
+- 📫 How to reach me: You can email me at *rubayat1704@gmail.com* .
+- ⚡ Fun fact: I am a lifelong learner and a big football lover! ⚽
 
 ---
 
